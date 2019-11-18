@@ -9,7 +9,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to Teamwork Frontend.
-        </p>        
+        </p> 
+        <p>
+          The goal of this application is to facilitate more interaction between colleagues and promote team bonding.
+        </p>       
       </header>
     </div>
   );
