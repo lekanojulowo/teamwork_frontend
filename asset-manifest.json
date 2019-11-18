@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teamwork_frontend/static/css/main.ea520c2e.chunk.css",
+    "main.js": "/teamwork_frontend/static/js/main.bd1dc445.chunk.js",
+    "main.js.map": "/teamwork_frontend/static/js/main.bd1dc445.chunk.js.map",
+    "runtime-main.js": "/teamwork_frontend/static/js/runtime-main.1992b8a5.js",
+    "runtime-main.js.map": "/teamwork_frontend/static/js/runtime-main.1992b8a5.js.map",
+    "static/js/2.5d9e4fa7.chunk.js": "/teamwork_frontend/static/js/2.5d9e4fa7.chunk.js",
+    "static/js/2.5d9e4fa7.chunk.js.map": "/teamwork_frontend/static/js/2.5d9e4fa7.chunk.js.map",
+    "index.html": "/teamwork_frontend/index.html",
+    "precache-manifest.10ce409ec281a751c03c9b015a6b0dd6.js": "/teamwork_frontend/precache-manifest.10ce409ec281a751c03c9b015a6b0dd6.js",
+    "service-worker.js": "/teamwork_frontend/service-worker.js",
+    "static/css/main.ea520c2e.chunk.css.map": "/teamwork_frontend/static/css/main.ea520c2e.chunk.css.map",
+    "static/media/logo.jpg": "/teamwork_frontend/static/media/logo.394e8a6b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1992b8a5.js",
+    "static/js/2.5d9e4fa7.chunk.js",
+    "static/css/main.ea520c2e.chunk.css",
+    "static/js/main.bd1dc445.chunk.js"
+  ]
+}
